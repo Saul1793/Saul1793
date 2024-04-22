@@ -1,16 +1,17 @@
-Alinear="center" "Hola, soy Saul Marin"./h1
-Alinear = "centro"-Soy analista de intligencia de negocios creativo entusistas y apasionado por mi trabajo./h3
+<h1 align="center">Hi 👋, I'm Saul Marin</h1>
+<h3 align="center">Soy analista de intligencia de negocios creativo entusistas y apasionado por mi trabajo</h3>
 
-- Pregímeme acerca de **python, Excel , vbs, vba, tableau**
+- 💬 Ask me about **python , excel , vbs, vba, tableau**
 
-- Cómo llegar a mí **Saulmc46.gmail.com**
+- 📫 How to reach me **Saulmc46@gmail.com**
 
-- Conocer mis experiencias [5 Años de exeperiencia en mi actual puesto para el analisis de datos exploracion mineria carga y](5 Años de exeperiencia en mi actual para el puesto analisis de los datos exploracion mineria carga y)
+- 📄 Know about my experiences [5 Años de exeperiencia en mi actual puesto para el analisis de datos exploracion mineria carga y](5 Años de exeperiencia en mi actual puesto para el analisis de datos exploracion mineria carga y)
 
-"h3 align="left"Conéctelo conmigo:/h3
-P. alineación="izq.
-A href="https://linkedin.com/in/https://www.linkedin.com/in/in/saul-marin-contreras-6a76442b2/" target="blank"--img align="center" src="https://raw.githubusercontent.com/rahulddjain/github-read-read-me-generator/master/src/images/icons/Social/linked-in-alt.sv"alt="https://www.linkedin.com/in/saul-marin-contreras-6a76442b2/" height="30" width="40" /-/a.
-- *
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saul-marin-contreras-6a76442b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saul-marin-contreras-6a76442b2/" height="30" width="40" /></a>
+</p>
 
-Eh3 align="left".Idiomas y herramientas:
-P. alineación="izq. A href="https://www.postgresql.org" target="-blank" rel="noreferrer" . .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/o - Ah, sí. A href="https://www.python.org" target="blank" rel="noreferrer" .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/ocúbico - Ah, sí. - *
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
