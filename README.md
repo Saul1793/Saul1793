@@ -5,6 +5,14 @@
 
 - 📫 How to reach me **Saulmc46@gmail.com**
 
+- Mi nombre es Saúl Abimael Marín Contreras. Soy una persona comprometida con la excelencia en mi trabajo, siempre
+buscando oportunidades para mejorar y optimizar cada tarea. Tengo un enfoque proactivo hacia el aprendizaje,
+adquiriendo constantemente nuevos conocimientos y habilidades que me permitan enriquecer mis proyectos y enfrentar
+desafíos de manera efectiva.
+Me motiva el desarrollo continuo tanto personal como profesional, lo que me lleva a adaptarme al entorno en el que me
+desempeño y a alcanzar resultados de alta calidad. Mi objetivo es superar expectativas y contribuir al logro de metas con
+soluciones innovadoras y efectivas.
+
 - 📄 Know about my experiences [5 Años de exeperiencia en mi actual puesto para el analisis de datos exploracion mineria carga y](5 Años de exeperiencia en mi actual puesto para el analisis de datos exploracion mineria carga y)
 
 <h3 align="left">Connect with me:</h3>
