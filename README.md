@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saul Marin</h1>
 <h3 align="center">Soy analista de intligencia de negocios creativo entusistas y apasionado por mi trabajo</h3>
 
-- 💬 Ask me about **python , excel , vbs, vba, tableau**
+- 💬 Ask me about **python , excel , vbs, vba, tableau, PowerBI**
 
 - 📫 How to reach me **Saulmc46@gmail.com**
 
